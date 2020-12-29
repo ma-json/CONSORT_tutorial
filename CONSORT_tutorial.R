@@ -1,5 +1,5 @@
 
-# A tutorial on dynamically drawing CONSORT diagrams from data using R and ggplot2
+# A tutorial on programmatically drawing CONSORT diagrams from data using R and ggplot2
 
 # Code and tutorial written by Matthew Johnson
 
