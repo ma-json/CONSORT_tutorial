@@ -3,7 +3,7 @@
 
 # Code and tutorial written by Matthew Johnson
 
-# Tutorial text can be found at: 
+# Tutorial text can be found at: https://ma-json.netlify.app/
 
 # Inspired by an RPubs blog article by Peter Higgins: https://rpubs.com/phiggins/461686
 
